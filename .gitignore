@@ -1,0 +1,5 @@
+node_modules/
+dist/
+android/gradle-8.14.3/
+android/gradle-8.14.3-all.zip
+android/.gradle/

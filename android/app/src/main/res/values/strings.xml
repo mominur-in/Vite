@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MominVite</string>
+    <string name="title_activity_main">MominVite</string>
+    <string name="package_name">com.momin.myapp</string>
+    <string name="custom_url_scheme">com.momin.myapp</string>
+</resources>
